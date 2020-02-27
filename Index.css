@@ -1,0 +1,56 @@
+body{
+    background-image: url(img/fondo.jpg);
+    padding-bottom: 90px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.Borde{
+    border-style: solid;
+    background-color: white;
+    background-image: url();
+    
+}
+
+
+.BordeTitulos{
+    border-style: solid;
+    background-color: darkgoldenrod;
+    background-image: url();
+}
+
+footer{
+    padding-top: 20px;
+    background: Black;
+    color: white;
+    width: 1502px;
+    height: 50px;
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+}
+
+.logo{
+    padding-left: 50%;
+    
+    
+    
+}
